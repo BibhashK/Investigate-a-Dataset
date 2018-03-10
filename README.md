@@ -1,5 +1,5 @@
 # Investigate-a-Dataset
-## udacity Data Analyst NanoDegree project - 3
+Udacity Data Analyst NanoDegree project - 3
 
 
 Project Overview
